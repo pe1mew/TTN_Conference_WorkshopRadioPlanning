@@ -27,11 +27,13 @@ The workshop is divided in to 3 parts:
 2.	Setup a Link budget and discuss the individual parts of the Link budget. This will result in building blocks to be used in Radio Mobile.
 3.	Exercise the use of Radio Mobile, simulate the coverage of a LoRaWAN gateway and what effect changes in the link budget have when we change parameters.
 
+# Further reading
+You can find all information about Radio Mobile and Radio Mobile Online at: http://radiomobile.pe1mew.nl/ and http://radiomobileonline.pe1mew.nl/ 
 
-### Disclaimer
+# Disclaimer
 The Workshop Radio Planning is provided in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
   
-### License
+# License
 This Workshop paper is part of the Worksop radio planning at the Things network conference.
 This workshop paper is free: You may redistribute it and/or modify it under the terms of a Creative  Commons Attribution-NonCommercial 4.0 International License  (http://creativecommons.org/licenses/by-nc/4.0/) by Remko Welling (http://rfsee.nl) E-mail: remko@rfsee.nl 
 
